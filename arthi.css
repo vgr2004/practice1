@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+#main{
+    align-items: center;
+    justify-content: center;
+    display: inline;
+}
+h1{
+    color:white;
+    
+
+}
+button{
+    color:white;
+    background-color: grey;
+}
